@@ -12,10 +12,8 @@ from the same corpus.
 
 --------------------
 * SAMPLE SENTENCE
-i
-PRP
-'d
-MD
+i 	PRP
+'d 	MD
 like VB
 french JJ
 food NN
